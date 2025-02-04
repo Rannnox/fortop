@@ -14,3 +14,5 @@ Change 9 at 2025-05-20 20:34:53
 Style: Updated formatting to follow style guide.
 Change 12 at 2025-06-15 04:12:18
 Cleanup: Removed unused variables and functions.
+Change 14 at 2025-02-04 13:45:42
+Tests: Added unit tests for core functionality.
