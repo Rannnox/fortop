@@ -5,3 +5,5 @@ Performance: Optimized random number generation algorithm.
 Change 4 at 2025-04-24 10:35:39
 Bugfix: Resolved issue with random data generation.
 Closes #42
+Change 6 at 2025-03-29 07:12:10
+Cleanup: Removed unused variables and functions.
