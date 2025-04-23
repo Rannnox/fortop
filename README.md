@@ -7,3 +7,6 @@ Bugfix: Resolved issue with random data generation.
 Closes #42
 Change 6 at 2025-03-29 07:12:10
 Cleanup: Removed unused variables and functions.
+Change 8 at 2025-04-23 01:27:09
+Bugfix: Resolved issue with random data generation.
+Closes #42
