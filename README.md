@@ -10,3 +10,5 @@ Cleanup: Removed unused variables and functions.
 Change 8 at 2025-04-23 01:27:09
 Bugfix: Resolved issue with random data generation.
 Closes #42
+Change 9 at 2025-05-20 20:34:53
+Style: Updated formatting to follow style guide.
