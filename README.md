@@ -12,3 +12,5 @@ Bugfix: Resolved issue with random data generation.
 Closes #42
 Change 9 at 2025-05-20 20:34:53
 Style: Updated formatting to follow style guide.
+Change 12 at 2025-06-15 04:12:18
+Cleanup: Removed unused variables and functions.
